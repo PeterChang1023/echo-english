@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>編輯課程 · 回音法英文學習</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <nav class="topnav">
+    <a href="./">← 所有課程</a>
+  </nav>
+
+  <div id="offline" class="notice" hidden>
+    編輯功能需要在你的 Mac 上執行 <code>./start.sh</code> 才能使用。
+  </div>
+
+  <div id="editor" hidden>
+    <h1 id="heading">新增課程</h1>
+    <form id="form">
+      <label for="title">標題</label>
+      <input type="text" id="title" placeholder="A Very Strange Woman Ep01" required>
+
+      <label>聲音</label>
+      <div class="voices" id="voices"></div>
+
+      <label for="text">內文</label>
+      <textarea id="text" required placeholder="# Part 1&#10;Brad and Ryan were just about / to start their dinner of beef noodles.&#10;&quot;She's kind of cute,&quot; Brad said, / glancing at a woman / sitting alone at another table."></textarea>
+      <p class="muted" style="font-size:14px;margin:6px 0 0">
+        每一行是一個段落；用 <code>/</code> 標出斷句，使用者點哪一段就只播那一段（同一行會一起唸，語調連貫）。<br>
+        用 <code># </code> 開頭的行是小標題，只顯示、不會唸出來。
+      </p>
+
+      <div class="form-actions">
+        <button type="submit" class="primary" id="submit">產生語音</button>
+        <span class="status" id="status"></span>
+      </div>
+    </form>
+
+    <h1 style="margin-top:48px">所有課程</h1>
+    <ul id="list" class="lesson-list"></ul>
+  </div>
+</div>
+<script>
+const $ = id => document.getElementById(id);
+const editId = new URLSearchParams(location.search).get('id');
+
+fetch('api/voices')
+  .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+  .then(voices => {
+    $('editor').hidden = false;
+    $('voices').innerHTML = Object.entries(voices).map(([v, name], i) =>
+      `<label><input type="radio" name="voice" value="${v}" ${i ? '' : 'checked'}> ${name}</label>`).join('');
+    if (editId) loadLesson(editId);
+    loadList();
+  })
+  .catch(() => { $('offline').hidden = false; });
+
+function loadLesson(id) {
+  fetch(`lessons/${encodeURIComponent(id)}/data.json`, { cache: 'no-store' }).then(r => r.json()).then(d => {
+    $('heading').textContent = '編輯課程';
+    $('title').value = d.title;
+    $('text').value = d.text;
+    const radio = document.querySelector(`input[name=voice][value="${d.voice}"]`);
+    if (radio) radio.checked = true;
+    $('submit').textContent = '重新產生語音';
+  });
+}
+
+function loadList() {
+  fetch('lessons/index.json', { cache: 'no-store' }).then(r => r.json()).then(lessons => {
+    const ul = $('list');
+    ul.innerHTML = '';
+    if (!lessons.length) ul.innerHTML = '<p class="muted">還沒有任何課程。</p>';
+    for (const l of lessons) {
+      const li = document.createElement('li');
+      li.innerHTML = `<div><div class="title"></div><div class="meta"></div></div>
+        <div class="actions">
+          <a class="btn" href="lesson.html?id=${encodeURIComponent(l.id)}">查看</a>
+          <a class="btn" href="admin.html?id=${encodeURIComponent(l.id)}">編輯</a>
+          <button class="del">刪除</button>
+        </div>`;
+      li.querySelector('.title').textContent = l.title;
+      li.querySelector('.meta').textContent = `${l.voice} · ${l.updated.replace('T', ' ')}`;
+      const del = li.querySelector('.del');
+      // two-step delete: first click arms, second click confirms
+      del.onclick = () => {
+        if (!del.classList.contains('on')) { del.classList.add('on'); del.textContent = '確定刪除？'; return; }
+        fetch(`api/lessons/${encodeURIComponent(l.id)}`, { method: 'DELETE' }).then(() => {
+          if (l.id === editId) location.href = 'admin.html'; else loadList();
+        });
+      };
+      ul.append(li);
+    }
+  });
+}
+
+$('form').onsubmit = async e => {
+  e.preventDefault();
+  const status = $('status');
+  status.className = 'status';
+  status.textContent = '產生中…（第一次要載入模型，會比較久）';
+  $('submit').disabled = true;
+  try {
+    const r = await fetch('api/generate', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        id: editId || undefined,
+        title: $('title').value,
+        text: $('text').value,
+        voice: document.querySelector('input[name=voice]:checked').value,
+      }),
+    });
+    const res = await r.json();
+    if (!r.ok) throw new Error(res.error);
+    location.href = `lesson.html?id=${encodeURIComponent(res.id)}`;
+  } catch (err) {
+    status.className = 'status error';
+    status.textContent = `失敗：${err.message}`;
+    $('submit').disabled = false;
+  }
+};
+</script>
+</body>
+</html>

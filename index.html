@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>回音法英文學習</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <nav class="topnav">
+    <span class="brand">回音法英文學習</span>
+    <a id="admin-link" class="btn primary" href="admin.html" hidden>＋ 新增課程</a>
+  </nav>
+  <h1>課程</h1>
+  <ul id="list" class="lesson-list"></ul>
+  <p id="empty" class="muted" hidden>還沒有任何課程。</p>
+</div>
+<script>
+const fmt = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, '0')}`;
+
+fetch('api/voices').then(r => { if (r.ok) document.getElementById('admin-link').hidden = false; }).catch(() => {});
+
+fetch('lessons/index.json', { cache: 'no-store' })
+  .then(r => r.ok ? r.json() : [])
+  .catch(() => [])
+  .then(lessons => {
+    document.getElementById('empty').hidden = lessons.length > 0;
+    const ul = document.getElementById('list');
+    for (const l of lessons) {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = `lesson.html?id=${encodeURIComponent(l.id)}`;
+      a.innerHTML = `<div class="title"></div><div class="meta"></div>`;
+      a.querySelector('.title').textContent = l.title;
+      a.querySelector('.meta').textContent = `${fmt(l.duration)} · ${l.updated.slice(0, 10)}`;
+      li.append(a);
+      ul.append(li);
+    }
+  });
+</script>
+</body>
+</html>

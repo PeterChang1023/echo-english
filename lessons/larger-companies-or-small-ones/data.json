@@ -1,0 +1,148 @@
+{
+ "id": "larger-companies-or-small-ones",
+ "title": "Larger companies or small ones ?",
+ "voice": "en-US-BrianNeural",
+ "duration": 36.888,
+ "updated": "2026-10-19T19:27:53",
+ "version": 1792409273,
+ "text": "# Part 1\nI prefer working in a large company / rather than a small one.\nThere are several reasons / to support my opinion.\n\n# Part 2\nFirst of all,/ large companies usually offer more opportunities for promotion.\nIf there are more opportunities,/ young people are more likely to dedicate their time and effort /to the company.\n\n# Part 3\nSecondly,/ large companies usually have clearer training systems.\nIf employees receive clearer training,/ they are more likely to work more efficiently and productively.\n\n# Part 3.5\nThirdly,/ large companies usually provide better benefits / and a more stable working environment. \n\n# Part 4\nThat’s why / I prefer working in a large company.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I prefer working in a large company",
+     "start": 0.075,
+     "end": 2.138
+    },
+    {
+     "text": "rather than a small one.",
+     "start": 2.15,
+     "end": 3.438
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "There are several reasons",
+     "start": 3.825,
+     "end": 5.025
+    },
+    {
+     "text": "to support my opinion.",
+     "start": 5.037,
+     "end": 6.388
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all,",
+     "start": 6.787,
+     "end": 7.45
+    },
+    {
+     "text": "large companies usually offer more opportunities for promotion.",
+     "start": 7.475,
+     "end": 11.175
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If there are more opportunities,",
+     "start": 11.537,
+     "end": 13.075
+    },
+    {
+     "text": "young people are more likely to dedicate their time and effort",
+     "start": 13.325,
+     "end": 16.512
+    },
+    {
+     "text": "to the company.",
+     "start": 16.525,
+     "end": 17.238
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "Secondly,",
+     "start": 17.637,
+     "end": 18.3
+    },
+    {
+     "text": "large companies usually have clearer training systems.",
+     "start": 18.312,
+     "end": 21.413
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If employees receive clearer training,",
+     "start": 21.775,
+     "end": 23.812
+    },
+    {
+     "text": "they are more likely to work more efficiently and productively.",
+     "start": 24.125,
+     "end": 27.387
+    }
+   ]
+  },
+  {
+   "title": "Part 3.5"
+  },
+  {
+   "segments": [
+    {
+     "text": "Thirdly,",
+     "start": 27.788,
+     "end": 28.375
+    },
+    {
+     "text": "large companies usually provide better benefits",
+     "start": 28.788,
+     "end": 31.475
+    },
+    {
+     "text": "and a more stable working environment.",
+     "start": 31.5,
+     "end": 33.4
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "That’s why",
+     "start": 33.788,
+     "end": 34.3
+    },
+    {
+     "text": "I prefer working in a large company.",
+     "start": 34.312,
+     "end": 36.513
+    }
+   ]
+  }
+ ]
+}

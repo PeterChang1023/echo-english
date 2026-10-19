@@ -1,0 +1,33 @@
+{
+ "id": "do-you-agree-that-companies-should-hold-social-eve",
+ "title": "Do you agree that companies should hold social events for employees? Why or Why not?",
+ "voice": "en-US-BrianNeural",
+ "duration": 7.32,
+ "updated": "2026-10-17T17:45:17",
+ "version": 1792230317,
+ "text": "# Part 1\nI totally agree that / companies should hold social events for employees./ There are several reasons to support my opinion.\n",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I totally agree that",
+     "start": 0.075,
+     "end": 1.175
+    },
+    {
+     "text": "companies should hold social events for employees.",
+     "start": 1.188,
+     "end": 3.987
+    },
+    {
+     "text": "There are several reasons to support my opinion.",
+     "start": 4.375,
+     "end": 6.938
+    }
+   ]
+  }
+ ]
+}

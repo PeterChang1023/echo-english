@@ -1,0 +1,403 @@
+{
+ "id": "a-very-strange-woman-ep01",
+ "title": "A Very Strange Woman Ep01",
+ "voice": "en-US-BrianNeural",
+ "duration": 114.672,
+ "updated": "2026-10-17T14:52:27",
+ "version": 1792219947,
+ "text": "# Part 1\nBrad and Ryan were just about / to start their dinner of beef noodles.\n\"She's kind of cute,\" Brad said, / glancing at a woman / sitting alone at another table.\n\"Yeah,\" replied Ryan. / \"She looks busy with her work.\"\n# Part 2\n\"Her food's here. / She's put her work away to eat,\" / Brad said.\nAfter Brad and Ryan paid their bill, / Ryan said, \"she's back at work, / writing in her notebook. / Maybe she has a deadline to meet?\"\n# Part 3\nThe next day, Brad and Ryan / found seats together on the MRT / to go to campus.\n\"Hey, isn't that the woman / we saw in the restaurant?\" Brad asked, / looking across the aisle.\n\"Yeah, that's her all right, / reading a book,\" replied Ryan. / \"Wonder where she's headed.\"\n# Part 4\n\"Well, looks like we're getting off first, / so we won't know,\" Brad replied.\nAfter their classes, / Brad and Ryan met again / at their usual coffee shop.\n\"There she is again,\" Ryan said. / \"Three times in two days.\"\n# Part 5\nBrad thought for a minute. / \"You know, there's something / really odd about her,\" he said, / \"but I just can't put my finger on it.\"\n\"She looks totally normal to me,\" Ryan replied. / \"But I know what you mean - / there's something kind of weird / about her somehow. / No idea what, though.\"\n# Part 6\nBrad and Ryan chatted a bit more / as they finished their lattes.\nBrad glanced up at the woman again / and closed his eyes briefly.\n\"I know what it is. / And it is really, truly strange,\" he said.\n# Part 7\n\"So what is it?\" / Ryan asked anxiously.\n\"Have you noticed, / that every single time we've seen her...\" / Brad started.\n\"What?\" Ryan asked impatiently.\n# Part 8\n\"...she has not pulled out her phone even once?!\"\nRyan looked up, / then shook his head in amazement.\n\"My gosh, you're right!\" he exclaimed. / \"That must be one of the weirdest things I've ever seen!!",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "Brad and Ryan were just about",
+     "start": 0.087,
+     "end": 1.637
+    },
+    {
+     "text": "to start their dinner of beef noodles.",
+     "start": 1.65,
+     "end": 3.638
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"She's kind of cute,\" Brad said,",
+     "start": 4.112,
+     "end": 6.188
+    },
+    {
+     "text": "glancing at a woman",
+     "start": 6.737,
+     "end": 7.675
+    },
+    {
+     "text": "sitting alone at another table.",
+     "start": 7.688,
+     "end": 9.375
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"Yeah,\" replied Ryan.",
+     "start": 9.85,
+     "end": 11.537
+    },
+    {
+     "text": "\"She looks busy with her work.\"",
+     "start": 12.05,
+     "end": 13.762
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "\"Her food's here.",
+     "start": 14.25,
+     "end": 15.113
+    },
+    {
+     "text": "She's put her work away to eat,\"",
+     "start": 15.512,
+     "end": 17.163
+    },
+    {
+     "text": "Brad said.",
+     "start": 17.613,
+     "end": 18.275
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "After Brad and Ryan paid their bill,",
+     "start": 18.675,
+     "end": 20.488
+    },
+    {
+     "text": "Ryan said, \"she's back at work,",
+     "start": 21.087,
+     "end": 23.212
+    },
+    {
+     "text": "writing in her notebook.",
+     "start": 23.738,
+     "end": 24.688
+    },
+    {
+     "text": "Maybe she has a deadline to meet?\"",
+     "start": 25.087,
+     "end": 26.95
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "The next day, Brad and Ryan",
+     "start": 27.363,
+     "end": 29.4
+    },
+    {
+     "text": "found seats together on the MRT",
+     "start": 29.413,
+     "end": 31.425
+    },
+    {
+     "text": "to go to campus.",
+     "start": 31.438,
+     "end": 32.413
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"Hey, isn't that the woman",
+     "start": 32.888,
+     "end": 34.625
+    },
+    {
+     "text": "we saw in the restaurant?\" Brad asked,",
+     "start": 34.638,
+     "end": 37.1
+    },
+    {
+     "text": "looking across the aisle.",
+     "start": 37.413,
+     "end": 38.75
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"Yeah, that's her all right,",
+     "start": 39.225,
+     "end": 40.763
+    },
+    {
+     "text": "reading a book,\" replied Ryan.",
+     "start": 41.138,
+     "end": 43.163
+    },
+    {
+     "text": "\"Wonder where she's headed.\"",
+     "start": 43.65,
+     "end": 44.987
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "\"Well, looks like we're getting off first,",
+     "start": 45.487,
+     "end": 47.562
+    },
+    {
+     "text": "so we won't know,\" Brad replied.",
+     "start": 47.575,
+     "end": 49.788
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "After their classes,",
+     "start": 50.188,
+     "end": 51.25
+    },
+    {
+     "text": "Brad and Ryan met again",
+     "start": 51.275,
+     "end": 52.862
+    },
+    {
+     "text": "at their usual coffee shop.",
+     "start": 52.888,
+     "end": 54.4
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"There she is again,\" Ryan said.",
+     "start": 54.875,
+     "end": 57.013
+    },
+    {
+     "text": "\"Three times in two days.\"",
+     "start": 57.487,
+     "end": 59.138
+    }
+   ]
+  },
+  {
+   "title": "Part 5"
+  },
+  {
+   "segments": [
+    {
+     "text": "Brad thought for a minute.",
+     "start": 59.538,
+     "end": 60.812
+    },
+    {
+     "text": "\"You know, there's something",
+     "start": 61.288,
+     "end": 62.587
+    },
+    {
+     "text": "really odd about her,\" he said,",
+     "start": 62.6,
+     "end": 64.675
+    },
+    {
+     "text": "\"but I just can't put my finger on it.\"",
+     "start": 65.338,
+     "end": 67.062
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"She looks totally normal to me,\" Ryan replied.",
+     "start": 67.55,
+     "end": 70.588
+    },
+    {
+     "text": "\"But I know what you mean -",
+     "start": 71.075,
+     "end": 72.075
+    },
+    {
+     "text": "there's something kind of weird",
+     "start": 72.675,
+     "end": 73.875
+    },
+    {
+     "text": "about her somehow.",
+     "start": 73.888,
+     "end": 74.812
+    },
+    {
+     "text": "No idea what, though.\"",
+     "start": 75.175,
+     "end": 76.412
+    }
+   ]
+  },
+  {
+   "title": "Part 6"
+  },
+  {
+   "segments": [
+    {
+     "text": "Brad and Ryan chatted a bit more",
+     "start": 76.838,
+     "end": 78.9
+    },
+    {
+     "text": "as they finished their lattes.",
+     "start": 78.912,
+     "end": 80.475
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "Brad glanced up at the woman again",
+     "start": 80.9,
+     "end": 82.912
+    },
+    {
+     "text": "and closed his eyes briefly.",
+     "start": 82.938,
+     "end": 84.6
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"I know what it is.",
+     "start": 85.075,
+     "end": 86.088
+    },
+    {
+     "text": "And it is really, truly strange,\" he said.",
+     "start": 86.487,
+     "end": 89.138
+    }
+   ]
+  },
+  {
+   "title": "Part 7"
+  },
+  {
+   "segments": [
+    {
+     "text": "\"So what is it?\"",
+     "start": 89.612,
+     "end": 90.675
+    },
+    {
+     "text": "Ryan asked anxiously.",
+     "start": 91.088,
+     "end": 92.662
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"Have you noticed,",
+     "start": 93.138,
+     "end": 94.075
+    },
+    {
+     "text": "that every single time we've seen her...\"",
+     "start": 94.438,
+     "end": 96.562
+    },
+    {
+     "text": "Brad started.",
+     "start": 97.112,
+     "end": 98.025
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"What?\" Ryan asked impatiently.",
+     "start": 98.5,
+     "end": 100.9
+    }
+   ]
+  },
+  {
+   "title": "Part 8"
+  },
+  {
+   "segments": [
+    {
+     "text": "\"...she has not pulled out her phone even once?!\"",
+     "start": 101.388,
+     "end": 103.85
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "Ryan looked up,",
+     "start": 104.388,
+     "end": 105.375
+    },
+    {
+     "text": "then shook his head in amazement.",
+     "start": 105.938,
+     "end": 107.65
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "\"My gosh, you're right!\" he exclaimed.",
+     "start": 108.112,
+     "end": 110.85
+    },
+    {
+     "text": "\"That must be one of the weirdest things I've ever seen!!",
+     "start": 111.45,
+     "end": 114.175
+    }
+   ]
+  }
+ ]
+}
