@@ -1,0 +1,174 @@
+{
+ "id": "do-you-prefer-watching-concerts-in-person-or-onlin",
+ "title": "Do you prefer watching concerts in person or online ?",
+ "voice": "en-US-BrianNeural",
+ "duration": 44.304,
+ "updated": "2026-10-24T14:57:12",
+ "version": 1792825032,
+ "text": "# Part 1\nI prefer watching concerts in person /rather than online.\nThere are several reasons /to support my opinion.\n\n# Part 2 \nFirst of all,/ watching a concert in person /usually offers a much better atmosphere./ \n\nIf I am actually at the venue,/ I can feel the energy of the crowd /and enjoy the live performance more deeply.\n\n# Part 3 \nSecondly,/ seeing my favorite idol in person/ is more exciting and memorable./Plus,/ going to a concert is a great social activity./ Sharing this unforgettable experience with my friends /and singing along with thousands of fans/ makes the event truly special.\n\n# Part 4 \nAs a result,/ it helps me release stress /and recharge my batteries / in a way that watching a screen at home /cannot fully provide.\n\n# Part 5 \nThat's why I prefer watching concerts in person.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I prefer watching concerts in person",
+     "start": 0.087,
+     "end": 2.288
+    },
+    {
+     "text": "rather than online.",
+     "start": 2.3,
+     "end": 3.438
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "There are several reasons",
+     "start": 3.825,
+     "end": 5.025
+    },
+    {
+     "text": "to support my opinion.",
+     "start": 5.037,
+     "end": 6.388
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all,",
+     "start": 6.787,
+     "end": 7.463
+    },
+    {
+     "text": "watching a concert in person",
+     "start": 7.487,
+     "end": 9.088
+    },
+    {
+     "text": "usually offers a much better atmosphere.",
+     "start": 9.1,
+     "end": 11.425
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If I am actually at the venue,",
+     "start": 11.787,
+     "end": 13.363
+    },
+    {
+     "text": "I can feel the energy of the crowd",
+     "start": 13.8,
+     "end": 15.575
+    },
+    {
+     "text": "and enjoy the live performance more deeply.",
+     "start": 15.6,
+     "end": 17.837
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "Secondly,",
+     "start": 18.225,
+     "end": 18.863
+    },
+    {
+     "text": "seeing my favorite idol in person",
+     "start": 19.325,
+     "end": 21.2
+    },
+    {
+     "text": "is more exciting and memorable.",
+     "start": 21.212,
+     "end": 22.913
+    },
+    {
+     "text": "Plus,",
+     "start": 23.3,
+     "end": 23.712
+    },
+    {
+     "text": "going to a concert is a great social activity.",
+     "start": 23.738,
+     "end": 26.337
+    },
+    {
+     "text": "Sharing this unforgettable experience with my friends",
+     "start": 26.738,
+     "end": 29.6
+    },
+    {
+     "text": "and singing along with thousands of fans",
+     "start": 29.613,
+     "end": 31.775
+    },
+    {
+     "text": "makes the event truly special.",
+     "start": 31.788,
+     "end": 33.462
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "As a result,",
+     "start": 33.862,
+     "end": 34.688
+    },
+    {
+     "text": "it helps me release stress",
+     "start": 34.913,
+     "end": 36.3
+    },
+    {
+     "text": "and recharge my batteries",
+     "start": 36.312,
+     "end": 37.675
+    },
+    {
+     "text": "in a way that watching a screen at home",
+     "start": 37.7,
+     "end": 39.525
+    },
+    {
+     "text": "cannot fully provide.",
+     "start": 39.538,
+     "end": 40.7
+    }
+   ]
+  },
+  {
+   "title": "Part 5"
+  },
+  {
+   "segments": [
+    {
+     "text": "That's why I prefer watching concerts in person.",
+     "start": 41.087,
+     "end": 43.925
+    }
+   ]
+  }
+ ]
+}

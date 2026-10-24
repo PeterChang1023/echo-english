@@ -22,10 +22,11 @@
       <button id="prev" title="上一句（←）">⏮</button>
       <button id="next" title="下一句（→）">⏭</button>
       <button id="loop" title="單句重複（R）">🔁 單句</button>
+      <button id="loopall" title="整課重播：播完自動從頭開始（A）">🔁 全課</button>
       <button id="speed" title="播放速度">1×</button>
     </div>
   </div>
-  <p class="hint">點任何一段文字就只播放那一段。開啟「🔁 單句」後，點一段文字會重複播放那一段。</p>
+  <p class="hint">點任何一段文字就只播放那一段。開啟「🔁 單句」後，點一段文字會重複播放那一段。開啟「🔁 全課」後，整課播完會自動從頭再播。</p>
 
   <article class="reader" id="reader"></article>
   <audio id="audio" preload="auto"></audio>
@@ -44,6 +45,7 @@ const id = new URLSearchParams(location.search).get('id');
 let segs = [];          // flat list: {start, end, stop, el}
 let range = null;       // {start, end} when playing a single phrase
 let looping = false;
+let loopingAll = false;  // restart the whole lesson when it ends
 let speedIdx = 0;
 let loopTimer = null;
 
@@ -131,6 +133,11 @@ requestAnimationFrame(tick);
 audio.addEventListener('loadedmetadata', () => { $('dur').textContent = fmt(audio.duration); });
 audio.addEventListener('play', () => { $('play').textContent = '❚❚'; });
 audio.addEventListener('pause', () => { $('play').textContent = '▶'; });
+audio.addEventListener('ended', () => {
+  // a phrase that runs to the very end of the file is not the lesson finishing
+  if (!loopingAll || range) return;
+  loopTimer = setTimeout(() => { if (loopingAll) playAll(); }, LOOP_PAUSE_MS / audio.playbackRate);
+});
 
 function togglePlay() {
   if (!audio.paused) { audio.pause(); clearTimeout(loopTimer); return; }
@@ -153,6 +160,12 @@ $('loop').onclick = () => {
   $('loop').classList.toggle('on', looping);
   if (!looping) clearTimeout(loopTimer);
 };
+$('loopall').onclick = () => {
+  loopingAll = !loopingAll;
+  $('loopall').classList.toggle('on', loopingAll);
+  try { localStorage.setItem('loopAll', loopingAll ? '1' : ''); } catch (e) {}
+};
+try { if (localStorage.getItem('loopAll')) $('loopall').click(); } catch (e) {}
 $('speed').onclick = () => {
   speedIdx = (speedIdx + 1) % SPEEDS.length;
   audio.playbackRate = SPEEDS[speedIdx];
@@ -171,6 +184,7 @@ document.addEventListener('keydown', e => {
   else if (e.key === 'ArrowLeft') { e.preventDefault(); step(-1); }
   else if (e.key === 'ArrowRight') { e.preventDefault(); step(1); }
   else if (e.key === 'r' || e.key === 'R') $('loop').click();
+  else if (e.key === 'a' || e.key === 'A') $('loopall').click();
 });
 </script>
 </body>
