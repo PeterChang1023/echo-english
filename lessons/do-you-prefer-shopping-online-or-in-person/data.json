@@ -1,0 +1,96 @@
+{
+ "id": "do-you-prefer-shopping-online-or-in-person",
+ "title": "Do you prefer shopping online or in person ?",
+ "voice": "en-US-BrianNeural",
+ "duration": 44.256,
+ "updated": "2026-10-27T00:59:54",
+ "version": 1793033994,
+ "text": "# Part 1 \nI strongly prefer shopping online rather than in person, and there are several reasons to support my opinion.\n\n# Part 2\nFirst of all, online shopping usually offers more convenience./\nIf I shop online, I can browse and buy products anytime and anywhere without leaving my home./ For example, I often order daily necessities on my phone during my commute/, which saves me the trouble of going to a crowded supermarket.\n\n# Part 3 \nSecondly, online shopping usually helps me save time and money.\nInstead of walking from store to store, I can easily compare prices with just a few clicks and read customer reviews before making a decision.\nFurthermore, online platforms frequently provide special discount.\n\n# Part 4\nThat’s why I strongly believe shopping online is a better choice.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I strongly prefer shopping online rather than in person, and there are several reasons to support my opinion.",
+     "start": 0.087,
+     "end": 5.912
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all, online shopping usually offers more convenience.",
+     "start": 6.3,
+     "end": 9.8
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If I shop online, I can browse and buy products anytime and anywhere without leaving my home.",
+     "start": 10.2,
+     "end": 15.8
+    },
+    {
+     "text": "For example, I often order daily necessities on my phone during my commute",
+     "start": 16.2,
+     "end": 20.288
+    },
+    {
+     "text": ", which saves me the trouble of going to a crowded supermarket.",
+     "start": 20.587,
+     "end": 23.5
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "Secondly, online shopping usually helps me save time and money.",
+     "start": 23.887,
+     "end": 27.375
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "Instead of walking from store to store, I can easily compare prices with just a few clicks and read customer reviews before making a decision.",
+     "start": 27.775,
+     "end": 35.65
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "Furthermore, online platforms frequently provide special discount.",
+     "start": 36.05,
+     "end": 39.95
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "That’s why I strongly believe shopping online is a better choice.",
+     "start": 40.337,
+     "end": 43.875
+    }
+   ]
+  }
+ ]
+}
