@@ -2,10 +2,10 @@
  "id": "do-you-agree-that-companies-should-hold-social-eve",
  "title": "Do you agree that companies should hold social events for employees? Why or Why not?",
  "voice": "en-US-BrianNeural",
- "duration": 7.32,
- "updated": "2026-10-17T17:45:17",
- "version": 1792230317,
- "text": "# Part 1\nI totally agree that / companies should hold social events for employees./ There are several reasons to support my opinion.\n",
+ "duration": 49.368,
+ "updated": "2026-10-26T23:22:18",
+ "version": 1793028138,
+ "text": "# Part 1\nI totally agree that / companies should hold social events for employees./ There are several reasons to support my opinion.\n\n# Part 2\nFirst of all, social events usually offer more opportunities for employees to build better relationships.\nIf colleagues know each other better,/ they are more likely to communicate smoothly /and cooperate effectively at work.\n\n# Part 3\nFor instance, my company organized a team-building dinner last month./ It gave us a chance to relax and chat outside of the office. /After that event, our team worked much faster on our recent project because we understood each other better.\n\n# Part 4\nSecondly, social events can help reduce stress and improve morale.\nAs a result, employees feel happier and more motivated, which often leads to higher productivity.\n\n# Part 5\nThat’s why I believe companies should hold some social events.\n",
  "items": [
   {
    "title": "Part 1"
@@ -26,6 +26,92 @@
      "text": "There are several reasons to support my opinion.",
      "start": 4.375,
      "end": 6.938
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all, social events usually offer more opportunities for employees to build better relationships.",
+     "start": 7.338,
+     "end": 13.4
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If colleagues know each other better,",
+     "start": 13.8,
+     "end": 15.238
+    },
+    {
+     "text": "they are more likely to communicate smoothly",
+     "start": 15.825,
+     "end": 18.038
+    },
+    {
+     "text": "and cooperate effectively at work.",
+     "start": 18.05,
+     "end": 19.962
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "For instance, my company organized a team-building dinner last month.",
+     "start": 20.363,
+     "end": 24.238
+    },
+    {
+     "text": "It gave us a chance to relax and chat outside of the office.",
+     "start": 24.6,
+     "end": 27.938
+    },
+    {
+     "text": "After that event, our team worked much faster on our recent project because we understood each other better.",
+     "start": 28.337,
+     "end": 34.275
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "Secondly, social events can help reduce stress and improve morale.",
+     "start": 34.675,
+     "end": 38.95
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "As a result, employees feel happier and more motivated, which often leads to higher productivity.",
+     "start": 39.35,
+     "end": 45.25
+    }
+   ]
+  },
+  {
+   "title": "Part 5"
+  },
+  {
+   "segments": [
+    {
+     "text": "That’s why I believe companies should hold some social events.",
+     "start": 45.638,
+     "end": 48.987
     }
    ]
   }

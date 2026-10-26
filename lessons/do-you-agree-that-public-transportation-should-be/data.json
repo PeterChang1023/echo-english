@@ -1,0 +1,134 @@
+{
+ "id": "do-you-agree-that-public-transportation-should-be",
+ "title": "Do you agree that public transportation should be free?",
+ "voice": "en-US-BrianNeural",
+ "duration": 51.72,
+ "updated": "2026-10-26T22:10:03",
+ "version": 1793023803,
+ "text": "# Part 1 \nI strongly believe that/ public transportation should be free,/ and there are two main reasons to support my opinion.\n\n# Part 2 \nFirst of all, it can help reduce air pollution and protect the environment.\nIf public transportation is free, more people will choose to take the bus or MRT instead of driving their own cars./ For example,/ in crowded cities like Taipei,/ this would greatly decrease traffic jams and carbon emissions.\n\n# Part 3 \nSecondly, free public transportation can usually boost the local economy /by attracting more tourists.\nWhen tourists find it convenient and cheap to get around,/ they are more likely to visit more places and spend more money.\n\n# Part 4 \nLastly, it can also improve road safety./ With fewer private vehicles and motorcycles on the road,/ the number of traffic accidents will naturally drop.\n\n# Part 5 \nThat’s why I believe public transportation should be free for everyone.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I strongly believe that",
+     "start": 0.087,
+     "end": 1.288
+    },
+    {
+     "text": "public transportation should be free,",
+     "start": 1.3,
+     "end": 3.138
+    },
+    {
+     "text": "and there are two main reasons to support my opinion.",
+     "start": 3.462,
+     "end": 6.138
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all, it can help reduce air pollution and protect the environment.",
+     "start": 6.537,
+     "end": 10.438
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If public transportation is free, more people will choose to take the bus or MRT instead of driving their own cars.",
+     "start": 10.838,
+     "end": 17.625
+    },
+    {
+     "text": "For example,",
+     "start": 18.025,
+     "end": 18.712
+    },
+    {
+     "text": "in crowded cities like Taipei,",
+     "start": 18.738,
+     "end": 20.438
+    },
+    {
+     "text": "this would greatly decrease traffic jams and carbon emissions.",
+     "start": 20.762,
+     "end": 23.962
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "Secondly, free public transportation can usually boost the local economy",
+     "start": 24.363,
+     "end": 28.988
+    },
+    {
+     "text": "by attracting more tourists.",
+     "start": 29.0,
+     "end": 30.475
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "When tourists find it convenient and cheap to get around,",
+     "start": 30.887,
+     "end": 33.688
+    },
+    {
+     "text": "they are more likely to visit more places and spend more money.",
+     "start": 34.05,
+     "end": 37.188
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "Lastly, it can also improve road safety.",
+     "start": 37.587,
+     "end": 40.188
+    },
+    {
+     "text": "With fewer private vehicles and motorcycles on the road,",
+     "start": 40.6,
+     "end": 43.75
+    },
+    {
+     "text": "the number of traffic accidents will naturally drop.",
+     "start": 44.275,
+     "end": 47.038
+    }
+   ]
+  },
+  {
+   "title": "Part 5"
+  },
+  {
+   "segments": [
+    {
+     "text": "That’s why I believe public transportation should be free for everyone.",
+     "start": 47.425,
+     "end": 51.35
+    }
+   ]
+  }
+ ]
+}
