@@ -1,0 +1,107 @@
+{
+ "id": "do-you-prefer-cleaning-your-room-every-day-or-not",
+ "title": "Do you prefer cleaning your room every day or not ?  Why or Why not ?",
+ "voice": "en-US-BrianNeural",
+ "duration": 37.368,
+ "updated": "2026-10-30T09:26:04",
+ "version": 1793323564,
+ "text": "# Part 1\nI prefer cleaning my room every day.\nThere are several reasons to support my opinion.\n\n# Part 2\nFirst of all, a tidy room usually helps me maintain a good mood and stay productive.\nIf my room is organized, I am more likely to feel relaxed and focus better on my work or studies.\n\n# Part 3\nSecondly, cleaning a little every day can save time in the long run.\nAs a result, I don’t need to spend a lot of time doing a big clean on weekends.\n\n# Part 4\nThirdly, a clean room usually makes it easier to find my things.\nI can save time searching for items and keep everything in order.\n\n# Part 5\nThat’s why I prefer keeping my room tidy every day.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I prefer cleaning my room every day.",
+     "start": 0.05,
+     "end": 2.212
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "There are several reasons to support my opinion.",
+     "start": 2.6,
+     "end": 5.162
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all, a tidy room usually helps me maintain a good mood and stay productive.",
+     "start": 5.562,
+     "end": 10.675
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If my room is organized, I am more likely to feel relaxed and focus better on my work or studies.",
+     "start": 11.05,
+     "end": 16.863
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "Secondly, cleaning a little every day can save time in the long run.",
+     "start": 17.262,
+     "end": 21.15
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "As a result, I don’t need to spend a lot of time doing a big clean on weekends.",
+     "start": 21.538,
+     "end": 25.562
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "Thirdly, a clean room usually makes it easier to find my things.",
+     "start": 25.962,
+     "end": 29.85
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "I can save time searching for items and keep everything in order.",
+     "start": 30.25,
+     "end": 33.625
+    }
+   ]
+  },
+  {
+   "title": "Part 5"
+  },
+  {
+   "segments": [
+    {
+     "text": "That’s why I prefer keeping my room tidy every day.",
+     "start": 34.013,
+     "end": 36.987
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "id": "do-you-prefer-studying-math-or-english",
+ "title": "Do you prefer studying Math or English ?",
+ "voice": "en-US-BrianNeural",
+ "duration": 31.776,
+ "updated": "2026-10-30T08:45:46",
+ "version": 1793321146,
+ "text": "# Part 1\nI strongly prefer studying English rather than math.\nThere are several reasons to support my opinion.\n\n# Part 2\nFirst of all, English is usually more practical and useful in daily life.\nIf I improve my English, I am more likely to communicate better at work and in every situations.\n\n# Part 3 \nSecondly, I find English more interesting and enjoyable to learn.\nAs a result, I can practice it through movies, music, and conversations, which makes the learning process more fun.\n\n# Part 4 \nThat’s why I prefer studying English. ",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I strongly prefer studying English rather than math.",
+     "start": 0.062,
+     "end": 3.212
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "There are several reasons to support my opinion.",
+     "start": 3.6,
+     "end": 6.162
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all, English is usually more practical and useful in daily life.",
+     "start": 6.562,
+     "end": 10.838
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If I improve my English, I am more likely to communicate better at work and in every situations.",
+     "start": 11.2,
+     "end": 16.962
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "Secondly, I find English more interesting and enjoyable to learn.",
+     "start": 17.363,
+     "end": 21.238
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "As a result, I can practice it through movies, music, and conversations, which makes the learning process more fun.",
+     "start": 21.637,
+     "end": 28.738
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "That’s why I prefer studying English.",
+     "start": 29.125,
+     "end": 31.4
+    }
+   ]
+  }
+ ]
+}
