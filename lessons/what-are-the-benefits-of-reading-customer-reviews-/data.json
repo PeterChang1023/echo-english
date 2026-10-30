@@ -1,0 +1,151 @@
+{
+ "id": "what-are-the-benefits-of-reading-customer-reviews-",
+ "title": "What are the benefits of reading customer reviews before purchasing products?",
+ "voice": "en-US-BrianNeural",
+ "duration": 35.232,
+ "updated": "2026-10-20T08:53:18",
+ "version": 1792457598,
+ "text": "# Part 1\nI think reading customer reviews/ before purchasing products is very beneficial.\nThere are several reasons /to support my opinion.\n\n# Part 2\nFirst of all,/ customer reviews usually offer more real information/ about the products.\nIf we read the reviews carefully,/ we are more likely /to know the actual quality /and avoid buying something /that doesn’t meet our expectations.\n\n# Part 3\nSecondly,/ reading reviews can help us/ save time and money.\nAs a result,/ we can make better decisions/ and choose products /that other people have already tested and recommended.\n\n# Part 4\nThat’s why I always read customer reviews before I buy something.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I think reading customer reviews",
+     "start": 0.087,
+     "end": 1.95
+    },
+    {
+     "text": "before purchasing products is very beneficial.",
+     "start": 1.962,
+     "end": 4.463
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "There are several reasons",
+     "start": 4.85,
+     "end": 6.05
+    },
+    {
+     "text": "to support my opinion.",
+     "start": 6.062,
+     "end": 7.412
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all,",
+     "start": 7.812,
+     "end": 8.438
+    },
+    {
+     "text": "customer reviews usually offer more real information",
+     "start": 8.463,
+     "end": 11.738
+    },
+    {
+     "text": "about the products.",
+     "start": 11.75,
+     "end": 12.713
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If we read the reviews carefully,",
+     "start": 13.075,
+     "end": 14.7
+    },
+    {
+     "text": "we are more likely",
+     "start": 15.037,
+     "end": 15.963
+    },
+    {
+     "text": "to know the actual quality",
+     "start": 15.975,
+     "end": 17.413
+    },
+    {
+     "text": "and avoid buying something",
+     "start": 17.55,
+     "end": 18.725
+    },
+    {
+     "text": "that doesn’t meet our expectations.",
+     "start": 18.738,
+     "end": 20.45
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "Secondly,",
+     "start": 20.85,
+     "end": 21.387
+    },
+    {
+     "text": "reading reviews can help us",
+     "start": 22.05,
+     "end": 23.275
+    },
+    {
+     "text": "save time and money.",
+     "start": 23.288,
+     "end": 24.363
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "As a result,",
+     "start": 24.762,
+     "end": 25.6
+    },
+    {
+     "text": "we can make better decisions",
+     "start": 25.625,
+     "end": 27.188
+    },
+    {
+     "text": "and choose products",
+     "start": 27.2,
+     "end": 28.212
+    },
+    {
+     "text": "that other people have already tested and recommended.",
+     "start": 28.225,
+     "end": 30.837
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "That’s why I always read customer reviews before I buy something.",
+     "start": 31.212,
+     "end": 34.85
+    }
+   ]
+  }
+ ]
+}
