@@ -2,10 +2,10 @@
  "id": "do-you-prefer-studying-math-or-english",
  "title": "Do you prefer studying Math or English ?",
  "voice": "en-US-BrianNeural",
- "duration": 31.776,
- "updated": "2026-10-30T08:45:46",
- "version": 1793321146,
- "text": "# Part 1\nI strongly prefer studying English rather than math.\nThere are several reasons to support my opinion.\n\n# Part 2\nFirst of all, English is usually more practical and useful in daily life.\nIf I improve my English, I am more likely to communicate better at work and in every situations.\n\n# Part 3 \nSecondly, I find English more interesting and enjoyable to learn.\nAs a result, I can practice it through movies, music, and conversations, which makes the learning process more fun.\n\n# Part 4 \nThat’s why I prefer studying English. ",
+ "duration": 47.376,
+ "updated": "2026-11-02T08:45:21",
+ "version": 1793580321,
+ "text": "# Part 1\nI strongly prefer studying English rather than math.\nThere are several reasons to support my opinion.\n\n# Part 2\nFirst of all, English is usually more practical and useful in daily life.\nIf I improve my English, I am more likely to communicate better at work and in every situations.\n\n# Part 3 \nSecondly, I find English more interesting and enjoyable to learn.\nFor example, in my daily life, I frequently need to reply to emails from international clients and read documents in English./ Studying English not only helps me perform better at work but also allows me to make friends from different cultural backgrounds when I travel abroad.\n\n# Part 4\nAs a result, I can practice it through movies, music, and conversations, which makes the learning process more fun.\n\n# Part 4 \nThat’s why I prefer studying English. ",
  "items": [
   {
    "title": "Part 1"
@@ -64,9 +64,26 @@
   {
    "segments": [
     {
-     "text": "As a result, I can practice it through movies, music, and conversations, which makes the learning process more fun.",
+     "text": "For example, in my daily life, I frequently need to reply to emails from international clients and read documents in English.",
      "start": 21.637,
-     "end": 28.738
+     "end": 28.7
+    },
+    {
+     "text": "Studying English not only helps me perform better at work but also allows me to make friends from different cultural backgrounds when I travel abroad.",
+     "start": 29.1,
+     "end": 36.837
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "As a result, I can practice it through movies, music, and conversations, which makes the learning process more fun.",
+     "start": 37.237,
+     "end": 44.337
     }
    ]
   },
@@ -77,8 +94,8 @@
    "segments": [
     {
      "text": "That’s why I prefer studying English.",
-     "start": 29.125,
-     "end": 31.4
+     "start": 44.725,
+     "end": 47.0
     }
    ]
   }

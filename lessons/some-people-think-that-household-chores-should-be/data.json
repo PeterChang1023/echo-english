@@ -1,0 +1,107 @@
+{
+ "id": "some-people-think-that-household-chores-should-be",
+ "title": "Some people think that household chores should be the responsibility of one person, while others believe they should be shared among all family members. Which view do you agree with and why?",
+ "voice": "en-US-BrianNeural",
+ "duration": 50.496,
+ "updated": "2026-10-31T00:52:08",
+ "version": 1793379128,
+ "text": "# Part 1\nI agree that household chores should be shared among all family members.\nThere are several reasons to support my opinion.\n\n# Part 2\nFirst of all, sharing chores is usually fairer for everyone.\nIf only one person does all the housework, they are more likely to feel tired and stressed.\n\n# Part 3\nSecondly, sharing chores usually teaches valuable life skills, especially for children.\nIf kids do simple tasks regularly, they are more likely to become responsible and independent.\nAs a result, it also creates a better sense of teamwork in the family.\n\n# Part 4\nFinally, dividing the housework is much more efficient. When everyone pitches in, the cleaning gets done a lot faster. This gives the whole family more quality time to relax or enjoy fun activities together on the weekends.\n\n# Part 5\nThat’s why I believe household chores should be shared among all family members.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I agree that household chores should be shared among all family members.",
+     "start": 0.087,
+     "end": 3.938
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "There are several reasons to support my opinion.",
+     "start": 4.325,
+     "end": 6.888
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all, sharing chores is usually fairer for everyone.",
+     "start": 7.287,
+     "end": 10.613
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If only one person does all the housework, they are more likely to feel tired and stressed.",
+     "start": 11.012,
+     "end": 15.925
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "Secondly, sharing chores usually teaches valuable life skills, especially for children.",
+     "start": 16.325,
+     "end": 22.025
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "If kids do simple tasks regularly, they are more likely to become responsible and independent.",
+     "start": 22.387,
+     "end": 28.062
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "As a result, it also creates a better sense of teamwork in the family.",
+     "start": 28.462,
+     "end": 32.35
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "Finally, dividing the housework is much more efficient. When everyone pitches in, the cleaning gets done a lot faster. This gives the whole family more quality time to relax or enjoy fun activities together on the weekends.",
+     "start": 32.75,
+     "end": 45.575
+    }
+   ]
+  },
+  {
+   "title": "Part 5"
+  },
+  {
+   "segments": [
+    {
+     "text": "That’s why I believe household chores should be shared among all family members.",
+     "start": 45.962,
+     "end": 50.112
+    }
+   ]
+  }
+ ]
+}
