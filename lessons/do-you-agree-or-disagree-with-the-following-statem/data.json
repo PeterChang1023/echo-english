@@ -1,0 +1,112 @@
+{
+ "id": "do-you-agree-or-disagree-with-the-following-statem",
+ "title": "Do you agree or disagree with the following statement? Advances in technology have improved the way people enjoy their free time. Support your answer with specific reasons and examples.",
+ "voice": "en-US-BrianNeural",
+ "duration": 51.288,
+ "updated": "2026-11-03T09:37:52",
+ "version": 1793669872,
+ "text": "# Part 1\nI strongly agree that technology has improved our free time. \nThere are several reasons to support my opinion.\n\n# Part 2\nFirst of all, it is really helpful for most people.\nFor instance, I am into K-pop music and a huge fan of BTS. /In the past, whenever they released a new album, I would participate in their concert./ However, I had to get the tickets, take a bus, and commute. /It was really fun, but it took a lot of time and effort.\n\n# Part 3\nNow, because of advances in technology, I can easily watch their livestreams through AR/VR online. /This new technology allows me to see my favorite idol group in person from my living room./ I can still enjoy the atmosphere and feel the energy of the crowd without traveling. /It is a great way for me to release stress and recharge my batteries. \n\n# Part 4\nTherefore, technology definitely makes our entertainment better.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I strongly agree that technology has improved our free time.",
+     "start": 0.087,
+     "end": 3.688
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "There are several reasons to support my opinion.",
+     "start": 4.075,
+     "end": 6.638
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all, it is really helpful for most people.",
+     "start": 7.037,
+     "end": 9.762
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "For instance, I am into K-pop music and a huge fan of BTS.",
+     "start": 10.162,
+     "end": 14.4
+    },
+    {
+     "text": "In the past, whenever they released a new album, I would participate in their concert.",
+     "start": 14.8,
+     "end": 19.587
+    },
+    {
+     "text": "However, I had to get the tickets, take a bus, and commute.",
+     "start": 19.988,
+     "end": 23.075
+    },
+    {
+     "text": "It was really fun, but it took a lot of time and effort.",
+     "start": 23.45,
+     "end": 26.637
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "Now, because of advances in technology, I can easily watch their livestreams through AR",
+     "start": 27.038,
+     "end": 31.675
+    },
+    {
+     "text": "VR online.",
+     "start": 31.688,
+     "end": 32.638
+    },
+    {
+     "text": "This new technology allows me to see my favorite idol group in person from my living room.",
+     "start": 33.038,
+     "end": 38.112
+    },
+    {
+     "text": "I can still enjoy the atmosphere and feel the energy of the crowd without traveling.",
+     "start": 38.513,
+     "end": 43.013
+    },
+    {
+     "text": "It is a great way for me to release stress and recharge my batteries.",
+     "start": 43.375,
+     "end": 47.062
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "Therefore, technology definitely makes our entertainment better.",
+     "start": 47.45,
+     "end": 50.925
+    }
+   ]
+  }
+ ]
+}

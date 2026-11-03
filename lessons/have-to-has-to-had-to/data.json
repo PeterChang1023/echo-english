@@ -1,0 +1,38 @@
+{
+ "id": "have-to-has-to-had-to",
+ "title": "have to, has to, had to",
+ "voice": "en-US-BrianNeural",
+ "duration": 5.4,
+ "updated": "2026-11-03T11:11:20",
+ "version": 1793675480,
+ "text": "I have to get the tickets.\nHe has to get the tickets.\nI had to get the tickets.",
+ "items": [
+  {
+   "segments": [
+    {
+     "text": "I have to get the tickets.",
+     "start": 0.062,
+     "end": 1.462
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "He has to get the tickets.",
+     "start": 1.85,
+     "end": 3.3
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "I had to get the tickets.",
+     "start": 3.675,
+     "end": 5.025
+    }
+   ]
+  }
+ ]
+}

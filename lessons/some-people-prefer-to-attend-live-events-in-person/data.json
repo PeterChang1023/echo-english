@@ -1,0 +1,89 @@
+{
+ "id": "some-people-prefer-to-attend-live-events-in-person",
+ "title": "Some people prefer to attend live events in person, while others prefer to watch them online at home. Which do you prefer and why?",
+ "voice": "en-US-BrianNeural",
+ "duration": 47.232,
+ "updated": "2026-11-03T10:35:31",
+ "version": 1793673331,
+ "text": "# Part 1\nI prefer to watch events online at home. There are several reasons to support my opinion. First of all, it's more convenient.\n\n# Part 2\nFor example, I am into K-pop music and a huge fan of BTS./ In the past, whenever they released a new album, I would participate in their concert. /However, I had to get the tickets, take a bus, and commute./ It was really fun, but it took a lot of time and effort. \n\n# Part 3\nAs I get older, I simply didn't have enough time to travel really far./ Therefore, I now prefer to watch their livestreams through AR and VR online. /It is much more convenient. It still helps me recharge my batteries and release stress. /I can still enjoy the atmosphere and feel the energy of the crowd without traveling.\n\n# Part 4\nThat's why I prefer watching events online at home.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I prefer to watch events online at home. There are several reasons to support my opinion. First of all, it's more convenient.",
+     "start": 0.05,
+     "end": 7.662
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "For example, I am into K-pop music and a huge fan of BTS.",
+     "start": 8.037,
+     "end": 11.887
+    },
+    {
+     "text": "In the past, whenever they released a new album, I would participate in their concert.",
+     "start": 12.287,
+     "end": 17.075
+    },
+    {
+     "text": "However, I had to get the tickets, take a bus, and commute.",
+     "start": 17.475,
+     "end": 20.562
+    },
+    {
+     "text": "It was really fun, but it took a lot of time and effort.",
+     "start": 20.938,
+     "end": 24.125
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "As I get older, I simply didn't have enough time to travel really far.",
+     "start": 24.488,
+     "end": 28.2
+    },
+    {
+     "text": "Therefore, I now prefer to watch their livestreams through AR and VR online.",
+     "start": 28.587,
+     "end": 33.038
+    },
+    {
+     "text": "It is much more convenient. It still helps me recharge my batteries and release stress.",
+     "start": 33.4,
+     "end": 38.587
+    },
+    {
+     "text": "I can still enjoy the atmosphere and feel the energy of the crowd without traveling.",
+     "start": 38.987,
+     "end": 43.487
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "That's why I prefer watching events online at home.",
+     "start": 43.875,
+     "end": 46.85
+    }
+   ]
+  }
+ ]
+}
