@@ -1,0 +1,121 @@
+{
+ "id": "do-you-agree-or-disagree-with-the-following-statem-2",
+ "title": "Do you agree or disagree with the following statement? Working in a group is more effective than working alone. Support your opinion with specific reasons and examples.",
+ "voice": "en-US-BrianNeural",
+ "duration": 60.168,
+ "updated": "2026-11-06T23:53:39",
+ "version": 1793980419,
+ "text": "# Part 1\nI strongly agree that working in a group is very valuable.\nThere are several reasons to support my opinion.\n\n# Part 2 \nFirst of all, working as a team is usually more efficient.\nFor example, when I was a freshman in college, I was new and had no experience. I majored in Atmospheric science and had an American teacher who was very passionate and caring.\n\n# Part 3 \nIn that class, we had so many group projects./ In one particular group project, my teammates didn't work hard and weren't cooperative. /They weren't focused, which almost led to bad grades.\n\n# Part 4\nTo fix this, I decided to become more engaged in the projects./ I became an active participant, and I had a lot on my plate. /I stayed diligent and had to stay up late because the teacher would give us a heavy penalty for a bad presentation.\n\n# Part 5\nIn the end, we learned to support each other. Instead of not getting anything out of the class, I was able to gain more knowledge, get better grades, and broaden my horizons.\n\n# Part 6\nThat's why I believe working in a group is more effective.",
+ "items": [
+  {
+   "title": "Part 1"
+  },
+  {
+   "segments": [
+    {
+     "text": "I strongly agree that working in a group is very valuable.",
+     "start": 0.05,
+     "end": 3.362
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "There are several reasons to support my opinion.",
+     "start": 3.75,
+     "end": 6.312
+    }
+   ]
+  },
+  {
+   "title": "Part 2"
+  },
+  {
+   "segments": [
+    {
+     "text": "First of all, working as a team is usually more efficient.",
+     "start": 6.713,
+     "end": 9.912
+    }
+   ]
+  },
+  {
+   "segments": [
+    {
+     "text": "For example, when I was a freshman in college, I was new and had no experience. I majored in Atmospheric science and had an American teacher who was very passionate and caring.",
+     "start": 10.312,
+     "end": 20.712
+    }
+   ]
+  },
+  {
+   "title": "Part 3"
+  },
+  {
+   "segments": [
+    {
+     "text": "In that class, we had so many group projects.",
+     "start": 21.113,
+     "end": 23.587
+    },
+    {
+     "text": "In one particular group project, my teammates didn't work hard and weren't cooperative.",
+     "start": 23.975,
+     "end": 28.913
+    },
+    {
+     "text": "They weren't focused, which almost led to bad grades.",
+     "start": 29.288,
+     "end": 32.1
+    }
+   ]
+  },
+  {
+   "title": "Part 4"
+  },
+  {
+   "segments": [
+    {
+     "text": "To fix this, I decided to become more engaged in the projects.",
+     "start": 32.462,
+     "end": 36.138
+    },
+    {
+     "text": "I became an active participant, and I had a lot on my plate.",
+     "start": 36.513,
+     "end": 39.9
+    },
+    {
+     "text": "I stayed diligent and had to stay up late because the teacher would give us a heavy penalty for a bad presentation.",
+     "start": 40.3,
+     "end": 46.087
+    }
+   ]
+  },
+  {
+   "title": "Part 5"
+  },
+  {
+   "segments": [
+    {
+     "text": "In the end, we learned to support each other. Instead of not getting anything out of the class, I was able to gain more knowledge, get better grades, and broaden my horizons.",
+     "start": 46.475,
+     "end": 56.325
+    }
+   ]
+  },
+  {
+   "title": "Part 6"
+  },
+  {
+   "segments": [
+    {
+     "text": "That's why I believe working in a group is more effective.",
+     "start": 56.712,
+     "end": 59.788
+    }
+   ]
+  }
+ ]
+}

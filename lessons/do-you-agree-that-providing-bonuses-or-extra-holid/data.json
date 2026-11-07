@@ -2,10 +2,10 @@
  "id": "do-you-agree-that-providing-bonuses-or-extra-holid",
  "title": "Do you agree that providing bonuses or extra holidays is the most effective way to motivate employees?",
  "voice": "en-US-BrianNeural",
- "duration": 48.456,
- "updated": "2026-11-02T09:24:57",
- "version": 1793582697,
- "text": "# Part 1 \nI strongly agree that giving rewards are the best way to motivate employees.\nThere are several reasons to support my opinion.\n\n# Part 2\nFirst of all, it's really helpful for most employees.\n\n# Part 3\nFor instance, five years ago, I was a newbie in the marketing department at ABC Company.\n\n# Part 4\nI had to put in long hours for so many team projects,/ and it was so stressful that I even worked on the weekend./ I was exhausted and really wanted to quit the job.\n\n# Part 5\nHowever, I stayed diligent, worked day and night, and finally completed them./ The performance was really great.\n\n# Part 6\nAs a result, my boss gave me bonuses/ and 3 days off for a long holiday to Sydney./ It was motivating, made me happy, and I was able to work harder afterward.\n\n# Part 7\nTherefore, appropriate rewards can effectively help employees overcome stress.",
+ "duration": 48.504,
+ "updated": "2026-11-05T20:22:26",
+ "version": 1793881346,
+ "text": "# Part 1 \nI strongly agree that giving rewards is the best way to motivate employees.\nThere are several reasons to support my opinion.\n\n# Part 2\nFirst of all, it's really helpful for most employees.\n\n# Part 3\nFor instance, five years ago, I was a newbie in the marketing department at ABC Company.\n\n# Part 4\nI had to put in long hours for so many team projects,/ and it was so stressful that I even worked on the weekend./ I was exhausted and really wanted to quit the job.\n\n# Part 5\nHowever, I stayed diligent, worked day and night, and finally completed them./ The performance was really great.\n\n# Part 6\nAs a result, my boss gave me bonuses and 3 days off for a long holiday to Sydney./ It was motivating, made me happy, and I was able to work harder afterward.\n\n# Part 7\nTherefore, appropriate rewards can effectively help employees overcome stress.",
  "items": [
   {
    "title": "Part 1"
@@ -13,9 +13,9 @@
   {
    "segments": [
     {
-     "text": "I strongly agree that giving rewards are the best way to motivate employees.",
-     "start": 0.087,
-     "end": 4.388
+     "text": "I strongly agree that giving rewards is the best way to motivate employees.",
+     "start": 0.075,
+     "end": 4.425
     }
    ]
   },
@@ -23,8 +23,8 @@
    "segments": [
     {
      "text": "There are several reasons to support my opinion.",
-     "start": 4.775,
-     "end": 7.338
+     "start": 4.812,
+     "end": 7.375
     }
    ]
   },
@@ -35,8 +35,8 @@
    "segments": [
     {
      "text": "First of all, it's really helpful for most employees.",
-     "start": 7.725,
-     "end": 10.512
+     "start": 7.763,
+     "end": 10.55
     }
    ]
   },
@@ -47,8 +47,8 @@
    "segments": [
     {
      "text": "For instance, five years ago, I was a newbie in the marketing department at ABC Company.",
-     "start": 10.9,
-     "end": 16.15
+     "start": 10.938,
+     "end": 16.188
     }
    ]
   },
@@ -59,18 +59,18 @@
    "segments": [
     {
      "text": "I had to put in long hours for so many team projects,",
-     "start": 16.55,
-     "end": 19.312
+     "start": 16.587,
+     "end": 19.35
     },
     {
      "text": "and it was so stressful that I even worked on the weekend.",
-     "start": 19.625,
-     "end": 22.4
+     "start": 19.663,
+     "end": 22.438
     },
     {
      "text": "I was exhausted and really wanted to quit the job.",
-     "start": 22.775,
-     "end": 25.55
+     "start": 22.812,
+     "end": 25.587
     }
    ]
   },
@@ -81,13 +81,13 @@
    "segments": [
     {
      "text": "However, I stayed diligent, worked day and night, and finally completed them.",
-     "start": 25.95,
-     "end": 30.188
+     "start": 25.988,
+     "end": 30.225
     },
     {
      "text": "The performance was really great.",
-     "start": 30.562,
-     "end": 32.35
+     "start": 30.6,
+     "end": 32.388
     }
    ]
   },
@@ -97,19 +97,14 @@
   {
    "segments": [
     {
-     "text": "As a result, my boss gave me bonuses",
-     "start": 32.75,
-     "end": 35.538
-    },
-    {
-     "text": "and 3 days off for a long holiday to Sydney.",
-     "start": 35.55,
-     "end": 38.112
+     "text": "As a result, my boss gave me bonuses and 3 days off for a long holiday to Sydney.",
+     "start": 32.788,
+     "end": 38.15
     },
     {
      "text": "It was motivating, made me happy, and I was able to work harder afterward.",
-     "start": 38.475,
-     "end": 42.987
+     "start": 38.513,
+     "end": 43.025
     }
    ]
   },
@@ -120,8 +115,8 @@
    "segments": [
     {
      "text": "Therefore, appropriate rewards can effectively help employees overcome stress.",
-     "start": 43.388,
-     "end": 48.087
+     "start": 43.425,
+     "end": 48.125
     }
    ]
   }
